@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="utf-8"/>
+ <title>example</title>
+ <script>
+ javascript goes here
+ </script>
+ </head>
+<body>
+markup goes here
+</body>
+</html>
