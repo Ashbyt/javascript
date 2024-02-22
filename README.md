@@ -10,3 +10,7 @@ document.getElementsByClassName()
 document.getElementById()
 document.querySelector()
 document.querySelectorAll()
+
+
+
+
